@@ -6,10 +6,10 @@ Download Anddroid Studio https://developer.android.com/studio/
 ### Installing Project
 1.Download project as Zip and Unzip
 <br />
-3.Open Android Studio
+2.Open Android Studio
 <br />
-4.Select Open an exiting Android Studio project
+3.Select Open an exiting Android Studio project
 <br />
-5.Browse for project folder
+4.Browse for project folder
 <br />
-6.Click OK
+5.Click OK
