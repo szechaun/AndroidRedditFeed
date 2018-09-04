@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/commentHeader"
+        >
+
+
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="author"
+            android:layout_marginTop="3dp"
+            android:id="@+id/postAuthor"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="title"
+            android:id="@+id/postTitle"
+            android:textSize="20dp"
+            android:layout_below="@+id/postAuthor"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_marginTop="3dp"
+            android:layout_below="@+id/postTitle"
+            android:id="@+id/postImage"
+            />
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/postImage"
+            android:id="@+id/commentListView"/>
+
+
+
+    </RelativeLayout>
+
+
+
+
+    </RelativeLayout>
+
+
+    
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RedditFeed</string>
+    <string name="checkbox">com.example.tim.redditfeed.checkbpx</string>
+    <string name="name">com.example.tim.redditfeed.name</string>
+    <string name="password">com.example.tim.redditfeed.password</string>
+    <string name="SessionUsername">com.example.tim.redditfeed.Account.SessionUsername</string>
+    <string name="SessionModhas">com.example.tim.redditfeed.Account.SessionModhash</string>
+    <string name="SessionCookie">com.example.tim.redditfeed.Account.SessionUsername"</string>
+</resources>
